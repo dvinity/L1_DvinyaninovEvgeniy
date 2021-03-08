@@ -7,6 +7,7 @@
 
 import Foundation
 
+
 // 1. Решение квадратного уравнения
 
 let a: Double = 5
